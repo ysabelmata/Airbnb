@@ -1,4 +1,4 @@
-## BI Airbnb
+## BI Airbnb :hotel:
 
 ## Introducción 
 
