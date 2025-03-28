@@ -2,5 +2,5 @@
 
 En este archivo podrás visualizar un resumen del analisis con las conclusiones y recomendaciones.
 
-Link al Hito 3 del Proyecto 1 
-https://lookerstudio.google.com/reporting/4246d4b7-81cd-4baf-b6c3-dfbe1a2e0dca
+Aca te dejo un link de un video explicando un poco sobre el Proyecto
+https://www.loom.com/share/b1fef856a8a64b00b43de570f173fae0
